@@ -16,3 +16,21 @@ This project is intentionally minimal and will be expanded over time.
 
 ```bash
 python text_insights.py
+
+---
+
+## 2️⃣ Add example output (README update)
+
+Still editing `README.md`, add **below the run section**:
+
+```markdown
+## Example output
+
+```text
+Total words: 14
+Most common words:
+is: 2
+data: 1
+science: 1
+not: 1
+magic.: 1

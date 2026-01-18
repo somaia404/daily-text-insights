@@ -20,7 +20,6 @@ This project is intentionally minimal and designed as a lightweight introduction
 ```bash
 python text_insights.py
 
-## Example output
 
 ```text
 Total words (after cleaning): 8

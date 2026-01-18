@@ -79,3 +79,11 @@ if __name__ == "__main__":
     print("Most common words:")
     for word, freq in common:
         print(f"{word}: {freq}")
+## Text processing
+
+The analysis includes simple preprocessing steps:
+- Lowercasing
+- Punctuation removal
+- Basic stopword filtering
+- Token-based word frequency analysis
+

@@ -20,3 +20,15 @@ This project is intentionally minimal and designed as a lightweight introduction
 ```bash
 python text_insights.py
 
+## Example output
+
+```text
+Total words (after cleaning): 8
+Most common words:
+data: 1
+science: 1
+not: 1
+magic: 1
+careful: 1
+
+
